@@ -1,0 +1,49 @@
+2025-06-10 16:27:30 INFO  LoginServlet:79 - 用户 [1] 登录成功，角色为 [研究生]"，存储在 session 的密码值: 123456789aA
+2025-06-10 16:27:30 INFO  InfoServlet:49 - 检索用户信息：1
+2025-06-10 16:27:54 INFO  LoginServlet:79 - 用户 [1] 登录成功，角色为 [研究生]"，存储在 session 的密码值: 123456789aA
+2025-06-10 16:27:54 INFO  InfoServlet:49 - 检索用户信息：1
+2025-06-10 16:28:27 INFO  ChangePasswordServlet:30 - 用户 1 成功修改密码
+2025-06-10 16:28:27 INFO  InfoServlet:49 - 检索用户信息：1
+2025-06-10 16:30:37 INFO  LoginServlet:79 - 用户 [11] 登录成功，角色为 [导师]"，存储在 session 的密码值: 123456aA.
+2025-06-10 16:32:02 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 16:32:02 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 16:32:50 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 16:33:00 INFO  studentQueryServlet:30 - 成功查询用户： 1
+2025-06-10 16:33:00 INFO  InfoServlet:49 - 检索用户信息：1
+2025-06-10 16:33:14 INFO  studentQueryServlet:30 - 成功查询用户： 1
+2025-06-10 16:33:14 INFO  InfoServlet:49 - 检索用户信息：1
+2025-06-10 16:44:12 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 16:44:20 INFO  studentQueryServlet:32 - 成功查询用户： 1
+2025-06-10 16:44:20 INFO  InfoServlet:49 - 检索用户信息：1
+2025-06-10 16:46:21 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 16:46:26 INFO  studentQueryServlet:32 - 成功查询用户： 1
+2025-06-10 16:47:18 INFO  studentQueryServlet:32 - 成功查询用户： 1
+2025-06-10 16:53:27 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 16:56:24 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 16:56:31 INFO  studentQueryServlet:32 - 成功查询用户： 1
+2025-06-10 17:00:32 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:00:35 INFO  studentQueryServlet:32 - 成功查询用户： 1
+2025-06-10 17:00:35 INFO  InfoServlet2:51 - 检索用户信息：1
+2025-06-10 17:02:45 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:02:50 INFO  studentQueryServlet:32 - 成功查询用户： 1
+2025-06-10 17:02:50 INFO  InfoServlet2:51 - 检索用户信息：1
+2025-06-10 17:07:14 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:07:18 INFO  studentQueryServlet:32 - 成功查询用户： 1
+2025-06-10 17:07:18 INFO  InfoServlet2:51 - 检索用户信息：1
+2025-06-10 17:08:16 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:08:20 INFO  studentQueryServlet:32 - 成功查询用户： 1
+2025-06-10 17:08:21 INFO  InfoServlet2:51 - 检索用户信息：1
+2025-06-10 17:08:31 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:12:09 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:13:35 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:14:58 INFO  LoginServlet:79 - 用户 [1101] 登录成功，角色为 [研究生院管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:15:20 INFO  LoginServlet:79 - 用户 [1011] 登录成功，角色为 [研究生院领导]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:15:26 INFO  studentQueryServlet:32 - 成功查询用户： 1
+2025-06-10 17:15:26 INFO  InfoServlet2:51 - 检索用户信息：1
+2025-06-10 17:15:37 INFO  LoginServlet:79 - 用户 [110] 登录成功，角色为 [学校领导]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:15:45 INFO  studentQueryServlet:32 - 成功查询用户： 1
+2025-06-10 17:15:45 INFO  InfoServlet2:51 - 检索用户信息：1
+2025-06-10 17:15:54 INFO  LoginServlet:79 - 用户 [111] 登录成功，角色为 [学院研究生秘书]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:16:30 INFO  LoginServlet:79 - 用户 [101] 登录成功，角色为 [审计管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:17:55 INFO  LoginServlet:79 - 用户 [101] 登录成功，角色为 [审计管理员]"，存储在 session 的密码值: 123456aA.
+2025-06-10 17:33:40 INFO  LoginServlet:79 - 用户 [101] 登录成功，角色为 [审计管理员]"，存储在 session 的密码值: 123456aA.

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: 37444
+Build-Jdk: Oracle OpenJDK version 22
+
