@@ -9,23 +9,6 @@
         <session-timeout>30</session-timeout> <!-- 30分钟 -->
     </session-config>
 
-    <servlet>
-        <servlet-name>ChangePasswordServlet</servlet-name>
-        <servlet-class>com.example.pgms.servlet.ChangePasswordServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>ChangePasswordServlet</servlet-name>
-        <url-pattern>/ChangePasswordServlet</url-pattern>
-    </servlet-mapping>
-    <servlet>
-        <servlet-name>ChangeInfo</servlet-name>
-        <servlet-class>com.example.pgms.servlet.QueryChangeServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>ChangeInfo</servlet-name>
-        <url-pattern>/ChangeStudentInfo</url-pattern>
-    </servlet-mapping>
-
     <welcome-file-list>
         <welcome-file>login.jsp</welcome-file>
     </welcome-file-list>
